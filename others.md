@@ -9,5 +9,4 @@
 
 ## 知っておくと便利である(かもしれない)こと
 
-- [Markdown](https://www.markdown.jp/what-is-markdown/)：構造化させたドキュメントを手軽に作成できる．ソフトウェア関連のものの標準と言って良いだろう．
 - LaTeX形式の数式記法：Markdownでも利用できる．

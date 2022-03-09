@@ -9,5 +9,6 @@
 ## ファイル構成
 
 - `git.md` Git/GitHub に関わるもの
-- `python.md` プログラミング言語 Python に関わるもの
+- `markdown.md` Markdown に関するもの
 - `others.md` その他
+- `python.md` プログラミング言語 Python に関わるもの
