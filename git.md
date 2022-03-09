@@ -18,4 +18,5 @@
 
 ## 関連リンク
 
-- [GitHub](https://github.com)
+- [GitHub](https://github.com)：GitHub 公式サイト．
+- [GitKraken](https://www.gitkraken.com/)：Git のクライアントソフト．前述の GitHub Student Program を用いることで無償で利用できる．
