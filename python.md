@@ -41,6 +41,13 @@
 - 自身のPCに Python 実行環境を導入してみても良いだろう．
 - 様々な方法があるが，良く分からなければ[Anaconda](https://www.anaconda.com/)と呼ばれる仕組みを用いると良いだろう．
 
+## GPU の利用について
+
+- 現状で Python にて GPU を用いる場合，NVIDIA製のグラフィックカードを利用することになるだろう．
+- 機械学習関連では，以下からGPUを用いることが多い:
+  - Tensorflow(Keras)
+  - Pytorch
+
 ## 関連リンク
 
 - [公式サイト](https://www.python.org/)
