@@ -14,6 +14,7 @@ Wikipedia より引用：
 ## Markdown の使い方
 
 - 具体的な手法については[以下](https://www.markdown.jp/what-is-markdown/)が参考になる．
+- GitHub でも情報が[以下](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)にある．
 - あくまで文字列のデータなので，OS標準で搭載されているエディタで編集可能である．
 - しかし，構造を確認するためには，Visual Studio Code などを用いることを推奨する．
 - ちなみに，多くの環境では `$` を用いることで LaTeX 形式で数式を扱うことができる．
