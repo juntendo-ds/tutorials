@@ -14,8 +14,11 @@
 - どのようなものかを簡単に知るならば，クラウドの学習サイトを用いるのが手軽である．
   - [paizaラーニング](https://paiza.jp/works) ：Python に限らず，様々なプログラミング言語の学習ができる．
   - [progate](https://prog-8.com/) ：こちらも様々なコンテンツがある
-- より詳しく学ぶならば，例えば[Pythonプログラミング入門(東京大学)](https://sites.google.com/view/ut-python/)がある
-  - 順天堂のアカウントから利用できる Google Colaboratory を用いて展開されるので，そのまま動かすことができる．
+- より詳しく学ぶならば，例えば以下がある
+  - [Pythonプログラミング入門(東京大学)](https://sites.google.com/view/ut-python/)
+    - 順天堂のアカウントからも利用できる Google Colaboratory を用いて展開されているので，それをそのまま動かすことができる．
+  - [プログラミング演習 Python 2021(京都大学)](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/265459)
+    - こちらはスタンダードな教科書の形態である
 
 ## (参考)Jupyter について
 
