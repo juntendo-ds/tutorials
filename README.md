@@ -9,7 +9,7 @@
 ## このレポジトリの使い方
 
 - 全てのデータを自身でダウンロードしたいならば，端末で以下を入力：
-```git clone git@github.com:juntendo-ds/tutorials``
+```git clone git@github.com:juntendo-ds/tutorials```
   - コマンドラインではなく，GUI で行なうことも可能ではある．
 - 更新があった場合，`git pull` をすることで反映はされる．
   - 更新情報は Slack の #git にて通知される(予定)．
