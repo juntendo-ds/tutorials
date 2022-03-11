@@ -47,9 +47,15 @@
 ## GPU の利用について
 
 - 現状で Python にて GPU を用いる場合，NVIDIA製のグラフィックカードを利用することになるだろう．
+  - CUDA と呼ばれるものを[以下](https://developer.nvidia.com/cuda-toolkit)から入手して設定することになる．
+- 購入しやすいのは，いわゆるゲーム用の GPU であるが，昨今の状況から値上がりしている
+  - GeForce RTX 3090 は 2022年3月現在，30万円程度である．
+  - 高額な理由は，仮想通貨のマイニングに利用されるためでもある．
+- アルゴリズムを確認するだけならばGPUを用いなかったり，廉価なものでも十分ではある．
+  - GPU の容量には注意．
 - 機械学習関連では，以下からGPUを用いることが多い:
-  - Tensorflow(Keras)
-  - Pytorch
+  - [TensorFlow(Keras)](https://www.tensorflow.org/)
+  - [Pytorch](https://pytorch.org/)
 
 ## 関連リンク
 
