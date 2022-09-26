@@ -10,10 +10,10 @@
 
 - 全てのデータを自身でダウンロードしたいならば，端末で以下を入力：
 ```git clone git@github.com:juntendo-ds/tutorials```
-  - コマンドラインではなく，GUI で行なうことも可能ではある
+  - コマンドラインではなく，GUI で行うことも可能ではある
 - 更新があった場合，`git pull` をすることで反映はされる
   - 更新情報は Slack の #Git にて通知される(予定)
-- 内容についての要望は Slack か Discussion にて行なって下さい
+- 内容についての要望は Slack か Discussion にて行って下さい
 
 ## ファイル構成
 

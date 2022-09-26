@@ -1,7 +1,7 @@
 # Git/GitHub について
 
 - Git はバージョン管理システムである
-  - Git を用いることでファイルの変更履歴を記録/復元することができ，複数人の作業にも対応できる
+  - Git を用いることでファイルの変更履歴を記録/復元でき，複数人の作業にも対応できる
 - GitHub は，Git を利用するためのサービスの1つである
   - 現在の世界の標準と言って良いものであり，多くの学術機関，企業で利用されている
 - Git/GitHub を実際に用いるためには様々な概念が必要になる
@@ -15,8 +15,10 @@
 - 詳細は[公式の案内](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/apply-for-a-student-developer-pack)を参照のこと
 - 大学のメールアドレスでアカウントを作っていれば，学生証をアップロードして適用できると思われる
   - 大学のメールアドレスではないアカウントの場合，追加することで対応できると思われる
+  - 2022年9月現在，この認証が以前よりも厳しくなったようであり，位置情報も含めて送信する必要があるようだ
 
 ## 関連リンク
 
 - [GitHub](https://github.com)：GitHub 公式サイト
-- [GitKraken](https://www.gitkraken.com/)：Git のクライアントソフト．前述の GitHub Student Program を用いることで無償で利用できる
+- [Git でのバージョン コントロールの概要](https://learn.microsoft.com/ja-jp/training/paths/intro-to-vc-git/)：Gitの基礎的な概念や操作を学ぶことができる
+- [GitHub 向け Microsoft Learn](https://learn.microsoft.com/ja-jp/training/github/)：GitHubの具体的な使い方を学ぶことができる
