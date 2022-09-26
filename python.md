@@ -43,7 +43,7 @@
 
 - 基本的には Google Colaboratory を利用できるようになれば十分であるが，長時間の計算などをするには別の環境を利用する必要がある
 - 自身のPCに Python 実行環境を導入してみても良いだろう
-- 様々な方法があるが，良く分からなければ[Anaconda](https://www.anaconda.com/)と呼ばれる仕組みを用いると良いだろう
+- さまざまな方法があるが，良く分からなければ[Anaconda](https://www.anaconda.com/)と呼ばれるしくみを用いると良いだろう
 
 ## GPU の利用について
 
@@ -61,7 +61,7 @@
 
 - 大学のアカウントから利用できる Google Colaboratory は無償で利用できるが，GPUの利用に制限がある
   - [Google Colab Pro](https://colab.research.google.com/signup) は月額定額であるが，非公開の利用制限が設定されている
-- 制限を気にせず用いるならば，有償のクラウドサービスを用いる選択肢がある．以下が代表的なものとなる
+- 制限を気にせず用いる並ば，有償のクラウドサービスを用いる選択肢がある．以下が代表的なものとなる
   - [AWS](https://docs.aws.amazon.com/ja_jp/dlami/latest/devguide/gpu.html)
   - [Microsoft Azure](https://docs.microsoft.com/ja-jp/azure/virtual-desktop/configure-vm-gpu)
   - [Google Cloud Platform](https://cloud.google.com/compute/docs/gpus)
