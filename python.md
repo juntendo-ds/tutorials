@@ -28,6 +28,19 @@
   - 文書や画像などを入れることもできる
 - Mathematica のような数式処理ソフトのような使い方もできる
 
+## JupyterLite について
+
+- 現時点でJupyterを最も手軽に利用できる方法と言える
+- [JupyterLite](https://jupyter.org/try-jupyter)にアクセスすると直ちに利用できるようになる
+  - これは，[Pyodide](https://pyodide.org/en/stable/index.html)と呼ばれる，ブラウザ上でコードを実行する仕組みを用いている
+- 初期状態で一通りのパッケージは用意されている
+  - 用意されていないものも以下のように，`piplite` を用いることで大抵は利用できる
+
+```pytyon
+import piplite
+await piplite.install('ipywidgets')
+```
+
 ## Google Colaboratory について
 
 - Google が提供するクラウド環境
