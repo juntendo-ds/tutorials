@@ -8,20 +8,16 @@
 
 ## このリポジトリの使い方
 
-- すべてのデータを自身でダウンロードしたい場合，端末で以下を入力：
+- 全てのデータを自身でダウンロードしたいならば，端末で以下を入力：
 ```git clone git@github.com:juntendo-ds/tutorials```
-  - コマンドラインではなく，GUI で行うことも可能ではある
+  - コマンドラインではなく，GUI で行なうことも可能ではある
 - 更新があった場合，`git pull` をすることで反映はされる
   - 更新情報は Slack のチャンネル *#git* にて通知される(予定)
 - 内容についての要望は Slack か Discussion にて行ってください
 
 ## ファイル構成
 
-- [git.md](./git.md)  
-Git/GitHub に関わるもの．
-- [markdown.md](./markdown.md)  
-Markdown に関するもの．
-- [others.md](./others.md)  
-そのほか．
-- [python.md](./python.md)  
-プログラミング言語 Python に関わるもの．
+- [git.md](./git.md) Git/GitHub に関わるもの
+- [markdown.md](./markdown.md) Markdown に関するもの
+- [others.md](./others.md) その他
+- [python.md](./python.md) プログラミング言語 Python に関わるもの

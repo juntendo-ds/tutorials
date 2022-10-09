@@ -18,7 +18,7 @@
 - 詳細は[公式の案内](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/apply-for-a-student-developer-pack)を参照のこと
 - 大学のメールアドレスでアカウントを作っていれば，学生証をアップロードして適用できると思われる
   - 大学のメールアドレスではないアカウントの場合，追加することで対応できると思われる
-- 最近は判定が厳しくなったのか，所属機関の場所を送信した上での登録が必要だった(Teacher Program の場合だが同様と思われる)
+  - 2022年10月現在，この認証が以前よりも厳しくなったようであり，位置情報も含めて送信する必要があるようだ
 
 ## 関連リンク
 

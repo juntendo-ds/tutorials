@@ -5,16 +5,17 @@
 - 現在のデータサイエンスにおいて標準と言って良い
 - インデント(字下げ)によって構造を決めるのが大きな特徴
   - 必然的に読みやすいものとなる
-- Python 自体の動作速度は速いものとは言えないが，膨大なライブラリを利用することでさまざまな場面において利用されている
+- Python 自体の動作速度は速くないが，膨大なライブラリを利用することで様々な場面において利用されている
   - その典型例は，GPU を用いた機械学習
   - これ以外にも多様な分野のライブラリ/パッケージが作成されている
 
 ## Python の勉強方法
 
-- どのようなものかを簡単に知る並ば，クラウドの学習サイトを用いるのが手軽である
-  - [paizaラーニング](https://paiza.jp/works) ：Python に限らず，さまざまなプログラミング言語の学習ができる
-  - [progate](https://prog-8.com/) ：こちらもさまざまなコンテンツがある
-- より詳しく学ぶ並ば，たとえば以下がある
+- どのようなものかを簡単に知るならば，クラウドの学習サイトを用いるのが手軽である
+  - [paizaラーニング](https://paiza.jp/works)：Python に限らず，様々なプログラミング言語の学習ができる
+  - [progate](https://prog-8.com/)：こちらも様々なコンテンツがある
+  - [Microsoft Learn](https://learn.microsoft.com/ja-jp/training/)：Git/GitHubやVisual Studio Code に関しても学習できる
+- より詳しく学ぶならば，例えば以下がある
   - [Pythonプログラミング入門(東京大学)](https://sites.google.com/view/ut-python/)
     - 順天堂のアカウントからも利用できる Google Colaboratory を用いて展開されているので，それをそのまま動かすことができる
   - [プログラミング演習 Python 2021(京都大学)](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/265459)
@@ -62,9 +63,8 @@ await piplite.install('ipywidgets')
 - 現状で Python にて GPU を用いる場合，NVIDIA製のグラフィックカードを利用することになるだろう
   - CUDA と呼ばれるものを[以下](https://developer.nvidia.com/cuda-toolkit)から入手して設定することになる
 - 購入しやすいのは，いわゆるゲーム用の GPU であるが，昨今の状況から値上がりしている
-  - GeForce RTX 3090 は 2022年3月現在，30万円程度である
-  - 高額な理由は，仮想通貨のマイニングに利用されるためでもある
-- アルゴリズムを確認するだけ並ばGPUを用いなかったり，廉価なものでも十分ではある
+  - 2022年9月現在，GPU自体の値段は下がったのだが，円安の影響が大きい
+- アルゴリズムを確認するだけならばGPUを用いなかったり，廉価なものでも十分ではある
   - 廉価な GPU の場合，メモリ容量には注意
 - 機械学習関連では，以下からGPUを用いることが多い:
   - [TensorFlow(Keras)](https://www.tensorflow.org/)
