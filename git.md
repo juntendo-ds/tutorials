@@ -6,7 +6,7 @@
   - 現在の世界の標準と言って良いものであり，多くの学術機関，企業で利用されている
 - Git/GitHub を実際に用いるためには,さまざまな概念が必要になる
   - ここでは，そのためのサイトを紹介することにする．各自そのリンク先を参照すること
-- [Git入門に最適なチュートリアルサイトまとめ・比較](https://i-am.jp/job-type/system-engineer/1748)
+- [Git入門者必見のおすすめ学習法全まとめ](https://www.sejuku.net/blog/6043)
 - [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
 - Microsoft Learn のコンテンツでも，Git/GitHubを学習するコンテンツがある
   - [Git でのバージョン コントロールの概要](https://learn.microsoft.com/ja-jp/training/paths/intro-to-vc-git/)
