@@ -35,11 +35,11 @@
 - [JupyterLite](https://jupyter.org/try-jupyter)にアクセスすると直ちに利用できるようになる
   - これは，[Pyodide](https://pyodide.org/en/stable/index.html)と呼ばれる，ブラウザ上でコードを実行する仕組みを用いている
 - 初期状態で一通りのパッケージは用意されている
-  - 用意されていないものも以下のように，`piplite` を用いることで大抵は利用できる
+  - 用意されていないものも以下のように，`pip` を用いることで大抵は利用できる
+  - これは中では `piplite` というものを動かしているようだ
 
 ```pytyon
-import piplite
-await piplite.install('ipywidgets')
+%pip install ipywidgets
 ```
 
 ## Google Colaboratory について
