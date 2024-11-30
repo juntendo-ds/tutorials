@@ -7,6 +7,7 @@
 - Git/GitHub を実際に用いるためには,さまざまな概念が必要になる
   - ここでは，そのためのサイトを紹介することにする．各自そのリンク先を参照すること
 - [Git入門者必見のおすすめ学習法全まとめ](https://www.sejuku.net/blog/6043)
+- [Gitとは？バージョン管理入門ガイド](https://github.blog/jp/2024-06-11-what-is-git-our-beginners-guide-to-version-control/)
 - [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
 - Microsoft Learn のコンテンツでも，Git/GitHubを学習するコンテンツがある
   - [Git でのバージョン コントロールの概要](https://learn.microsoft.com/ja-jp/training/paths/intro-to-vc-git/)
