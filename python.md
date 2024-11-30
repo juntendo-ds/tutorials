@@ -18,7 +18,7 @@
 - より詳しく学ぶならば，例えば以下がある
   - [Pythonプログラミング入門(東京大学)](https://sites.google.com/view/ut-python/)
     - 順天堂のアカウントからも利用できる Google Colaboratory を用いて展開されているので，それをそのまま動かすことができる
-  - [プログラミング演習 Python 2021(京都大学)](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/265459)
+  - [プログラミング演習 Python 2023(京都大学)](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/285600)
     - こちらはスタンダードな教科書の形態である
 
 ## (参考)Jupyter について
@@ -63,12 +63,12 @@ await piplite.install('ipywidgets')
 - 現状で Python にて GPU を用いる場合，NVIDIA製のグラフィックカードを利用することになるだろう
   - CUDA と呼ばれるものを[以下](https://developer.nvidia.com/cuda-toolkit)から入手して設定することになる
 - 購入しやすいのは，いわゆるゲーム用の GPU であるが，昨今の状況から値上がりしている
-  - 2022年9月現在，GPU自体の値段は下がったのだが，円安の影響が大きい
+  - 2024年11月現在，GPU自体の値段は下がったのだが，円安の影響は大きい
 - アルゴリズムを確認するだけならばGPUを用いなかったり，廉価なものでも十分ではある
   - 廉価な GPU の場合，メモリ容量には注意
 - 機械学習関連では，以下からGPUを用いることが多い:
   - [TensorFlow(Keras)](https://www.tensorflow.org/)
-  - [Pytorch](https://pytorch.org/)
+  - [PyTorch](https://pytorch.org/)
 
 ## クラウド環境からのGPUの利用について
 
